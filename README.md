@@ -23,7 +23,7 @@ Check out the live version of this project: [Live Demo Link](https://your-live-d
 Clone the repository and fire it up locally:
 
 ```bash
-git clone https://github.com/your-username/astro-beast-mode.git
+git clone https://github.com/re4l1ly/astro-beast-mode.git
 cd astro-beast-mode
 npm install
 npm run dev
