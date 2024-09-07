@@ -28,8 +28,9 @@ cd astro-beast-mode
 npm install
 npm run dev
 Your Astro.js project will be running at http://localhost:3000! 🎉
+'''
 
-🔥 Project Structure
+## 🔥 Project Structure
 Here's a quick overview of the project structure:
 
 plaintext
@@ -40,7 +41,8 @@ Copy code
 │   ├── layouts/      # Custom layouts
 │   └── pages/        # Your pages go here!
 └── public/           # Static assets
-🚀 Built With
+
+## 🚀 Built With
 Astro.js - The core framework powering this beast project.
 Tailwind CSS - For fast and responsive design.
 Sass - Write CSS with power and flexibility.
